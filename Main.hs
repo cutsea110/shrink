@@ -1,7 +1,7 @@
 {-# LANGUAGE DeriveDataTypeable #-}
 module Main where
 
-import Char
+import Data.Char
 import Control.Exception
 import Control.Monad
 import Data.Typeable
